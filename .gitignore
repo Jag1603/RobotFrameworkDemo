@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# Robot Framework outputs
+results/
+output.xml
+log.html
+report.html
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

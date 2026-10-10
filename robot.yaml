@@ -1,0 +1,3 @@
+# Robot Framework configuration (Robot Framework 7+)
+# CLI --variable values override these defaults.
+# Run: robot --outputdir results tests
